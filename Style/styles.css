@@ -5,7 +5,6 @@
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #fff8f0; /* cor clara e quente */
   color: #5a3e1b; /* tom marrom quente para o texto */
   padding: 20px;
@@ -22,7 +21,6 @@ head {
 }
 
 head h1 {
-  font-family: 'Georgia', serif;
   font-size: 3rem;
   color: #b85c1a; /* cor de pão torrado */
   margin-bottom: 10px;
@@ -31,7 +29,6 @@ head h1 {
 
 head p {
   font-size: 1.25rem;
-  font-style: italic;
   color: #8c6239;
 }
 
@@ -46,7 +43,6 @@ main {
 }
 
 main h3 {
-  font-family: 'Georgia', serif;
   font-size: 2rem;
   color: #a75b0e;
   border-bottom: 2px solid #b85c1a;
