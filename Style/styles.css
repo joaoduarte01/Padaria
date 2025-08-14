@@ -20,9 +20,6 @@
             padding: 15px 25px;
             font-weight: bold;
         }
-        nav a:hover {
-            background-color: #ff8000;
-        }
         section {
             padding: 20px;
             max-width: 1000px;
